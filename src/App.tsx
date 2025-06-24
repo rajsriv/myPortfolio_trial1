@@ -59,21 +59,21 @@ function App() {
       title: 'Neural Commerce',
       description: 'AI-powered shopping experience with mind-reading recommendations and quantum checkout processes.',
       tech: ['React', 'WebGL', 'AI/ML', 'Quantum CSS'],
-      image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjQ1MCIgdmlld0JveD0iMCAwIDgwMCA0NTAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNDUwIiBmaWxsPSIjMTExODI3Ii8+CjxjaXJjbGUgY3g9IjQwMCIgY3k9IjIyNSIgcj0iMTAwIiBmaWxsPSIjMTBiOTgxIiBmaWxsLW9wYWNpdHk9IjAuMiIvPgo8Y2lyY2xlIGN4PSI2MDAiIGN5PSIxNTAiIHI9IjYwIiBmaWxsPSIjZWM0ODk5IiBmaWxsLW9wYWNpdHk9IjAuMTUiLz4KPHN2Zz4K',
       accent: 'from-emerald-400 to-cyan-600'
     },
     {
       title: 'Holographic Analytics',
       description: 'Data visualization in 3D space with gesture controls and telepathic user interfaces.',
       tech: ['Three.js', 'WebXR', 'Neural Networks', 'Hologram API'],
-      image: 'https://images.pexels.com/photos/590020/pexels-photo-590020.jpg?auto=compress&cs=tinysrgb&w=800',
+      image: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjQ1MCIgdmlld0JveD0iMCAwIDgwMCA0NTAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNDUwIiBmaWxsPSIjMTExODI3Ii8+CjxwYXRoIGQ9Ik0yMDAgMjI1TDQwMCAxMDBMNjAwIDIyNUw0MDAgMzUwWiIgZmlsbD0iI2VjNDg5OSIgZmlsbC1vcGFjaXR5PSIwLjIiLz4KPHN2Zz4K',
       accent: 'from-pink-400 to-purple-600'
     },
     {
       title: 'Consciousness Platform',
       description: 'Content management system that reads your thoughts and creates content before you think it.',
       tech: ['Next.js', 'Brain.js', 'Quantum State', 'Time Travel API'],
-      image: 'https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjQ1MCIgdmlld0JveD0iMCAwIDgwMCA0NTAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNDUwIiBmaWxsPSIjMTExODI3Ii8+CjxyZWN0IHg9IjEwMCIgeT0iMTAwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI1MCIgcng9IjIwIiBmaWxsPSIjZjU5ZTBiIiBmaWxsLW9wYWNpdHk9IjAuMTUiLz4KPHN2Zz4K',
       accent: 'from-yellow-400 to-red-600'
     }
   ];
